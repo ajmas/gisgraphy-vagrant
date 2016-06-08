@@ -9,4 +9,11 @@ Coote for the project 'superbowl-tweet', found here:
 
 https://github.com/alastaircoote/superbowl-tweet
 
+Amongst the changes include:
+
+  - moving to a 64bit VM
+  - separating out the install script
+  - providing a custom local name
+  
+
 
